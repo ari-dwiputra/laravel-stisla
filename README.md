@@ -16,7 +16,7 @@
 
 ## Installation
 1. Clone
-	- git clone https://github.com/aridwiputra/laravel-stisla.git
+	- git clone https://github.com/ari-dwiputra/laravel-stisla.git
 2. Install Depedency
 	- composer install
 3. Setup Environment Variable
